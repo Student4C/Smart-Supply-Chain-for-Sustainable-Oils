@@ -1,7 +1,7 @@
 # Smart-Supply-Chain-for-Sustainable-Oils
 This project uses Artificial Intelligence to optimise the distribution of organic, cold-pressed oils from Kenya to global markets. 
 
-#Summary
+##Summary
 This project uses Artificial Intelligence to optimize the distribution of organic, cold-pressed oils from Kenya to global markets. By predicting demand, improving logistics, and minimizing waste, the system supports both sustainability and charity funding for destitute children in Kenya.
 
 #Background
